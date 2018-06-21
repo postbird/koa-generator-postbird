@@ -111,8 +111,7 @@ module.exports = {
 
 - [koa2 使用 koa-body 代替 koa-bodyparser 和 koa-multer](http://www.ptbird.cn/koa-body.html)
 
-- [koa-body 文件上传自定义文件夹及文件名称
-评论：0 · 阅读：12· 喜欢：0](http://www.ptbird.cn/koa-body-diy-upload-dir-and-filename.html)
+- [koa-body 文件上传自定义文件夹及文件名称](http://www.ptbird.cn/koa-body-diy-upload-dir-and-filename.html)
 
 
 ## License 
