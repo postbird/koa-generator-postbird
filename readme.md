@@ -116,7 +116,7 @@ module.exports = {
 
 ## 六、效果
 
-![demo.jpg](./tests/demo.jpg)
+![demo.jpg](./tests/example.jpg)
 
 ## License 
 
