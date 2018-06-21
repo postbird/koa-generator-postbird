@@ -114,6 +114,10 @@ module.exports = {
 - [koa-body 文件上传自定义文件夹及文件名称](http://www.ptbird.cn/koa-body-diy-upload-dir-and-filename.html)
 
 
+## 六、效果
+
+![demo.jpg](./tests/demo.jpg)
+
 ## License 
 
 MIT
