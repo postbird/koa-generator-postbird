@@ -16,7 +16,7 @@ module.exports = {
     renew: false,  //(boolean) renew session when session is nearly expired,
   },
   upload:{
-    size:2*2014*1024,
-    dir:"public/upload"
+    size:2*2014*1024, // 文件上传大小
+    dir:"public/upload" // 文件上传路径
   }
 };
