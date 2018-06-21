@@ -6,7 +6,7 @@
 
 - github :[https://github.com/postbird/koa-generator-postbird](https://github.com/postbird/koa-generator-postbird)
 
-- gitosc :
+- gitosc :[https://gitee.com/postbird/koa-generator-postbird](https://gitee.com/postbird/koa-generator-postbird)
 
 
 ## 一、基本依赖
