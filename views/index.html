@@ -1,0 +1,37 @@
+{%extends './base.html'%}
+{%block title%} {%endblock%}
+{%block stylesheet%}
+<style>
+  .header{
+   width:800px;
+   margin:0 auto;
+   text-align: center;
+  }
+  .main,.footer{
+    text-align: left;
+  }
+  .license,.footer{
+    margin-top:100px;
+  }
+</style>
+{%endblock%}
+
+{%block main%}
+<div class="header">
+  <h1>koa-generator-postbird | koa2开发脚手架</h1>
+  <hr>
+  <div class="main">
+    <p>更多信息请查看 github README</p>
+    <h3>gitosc：</h3>
+    <h3>github：</h3>
+    <h3 class="license">License:MIT</h3>
+  </div>
+  <div class="footer">
+    by postbird - <a href="http://www.ptbird.cn">http://www.ptbird.cn</a>
+  </div>
+</div>
+
+
+{%endblock%}
+
+{%block script%} {%endblock%}

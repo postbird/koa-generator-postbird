@@ -1,0 +1,20 @@
+{
+  "name": "koa-generator-postbird",
+  "version": "1.0.0",
+  "description": "koa-generator with nunjucks ,koa-body and etc..",
+  "main": "index.js",
+  "author": "postbird <ptbird@yeah.net> (http://www.ptbird.cn/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-body": "^4.0.3",
+    "koa-nunjucks-2": "^3.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1",
+    "koa-static": "^5.0.0"
+  }
+}
